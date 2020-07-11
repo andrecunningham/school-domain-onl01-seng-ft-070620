@@ -18,7 +18,7 @@ def grade(grade)
 end
 
 def sort(grade)
-  @roster[grade]
+  @roster[sort]
 end
 
 end
