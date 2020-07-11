@@ -14,7 +14,7 @@ class School
     
   end
 
-def add_student(grade)
+def sort(grade)
   @roster[grade] = []
 end
 
