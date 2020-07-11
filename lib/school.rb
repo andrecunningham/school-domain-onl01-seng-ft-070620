@@ -13,7 +13,7 @@ class School
     @roster[grade] << name
     
   end
-def School
+def grade
   @roster[grade] = school.sort
 end
 
