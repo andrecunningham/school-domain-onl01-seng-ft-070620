@@ -19,7 +19,7 @@ end
 
 def sort()
   @roster.each do |grade, name|
-      WHAT GOES HERE?
+     name.sort[]
   end
 end
 
