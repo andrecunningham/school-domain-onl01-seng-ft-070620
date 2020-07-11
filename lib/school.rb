@@ -18,7 +18,9 @@ def grade(grade)
 end
 
 def sort()
-  @roster[name]
+  @roster.each do |grade, name|
+      WHAT GOES HERE?
+  end
 end
 
 end
