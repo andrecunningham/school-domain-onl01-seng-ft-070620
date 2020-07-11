@@ -11,7 +11,10 @@ class School
  
     @roster[grade] ||= []
     @roster[grade] << name
-    @roster[grade] = school.sort
+    
   end
+def School
+  @roster[grade] = school.sort
+end
 
 end
